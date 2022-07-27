@@ -2,7 +2,7 @@
 
 ShanghaiTech Spring 2022 CS110 Computer Architecture projects
 
-### My Work division:
+### My Work Division:
 
 - p1.1 partly
 - p2.1 partly
